@@ -1,0 +1,16 @@
+Pressao,Radiacao,Label
+2500,800,Seguro
+2600,850,Seguro
+2550,700,Seguro
+2400,900,Seguro
+2100,500,Seguro
+1800,1000,Alerta
+1500,1600,Alerta
+1900,2000,Alerta
+1400,2200,Alerta
+1700,1200,Alerta
+900,1000,Critico
+800,800,Critico
+1500,2900,Critico
+2500,3000,Critico
+500,3500,Critico
